@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Song+Myung&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Song Myung', serif;
+}
+body {
+    background: linear-gradient(#dad299,#b0dab9);
+} 
+
+canvas { display: block; } 
+
+#defaultCanvas0 {
+    margin : 0 auto;
+    border: 5px solid salmon;
+}
+
+video {
+    border-width: 10px solid rgb(162, 125, 255);
+}
+
