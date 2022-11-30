@@ -1,0 +1,4 @@
+User-agent: *
+Allow:/
+Sitemap: https://holdyourautumn.netlify.app/sitemap.xml
+
